@@ -167,10 +167,11 @@ const Portfolio = () => {
                   </h1>
                   <div className="h-12 mb-4">
                     <h2 className="text-2xl md:text-3xl font-semibold text-gray-700 dark:text-gray-300 animated-text">
-                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">Full Stack Developer</span>
-                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">SDET</span>
                       <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">Software Developer</span>
-                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">Machine Learning Engineer</span>
+                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">Full Stack Developer</span>
+                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">FrontEnd Engineer</span>
+                      <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-600 bg-clip-text text-transparent">Backend Engineer</span>
+                      
                     </h2>
                   </div>
                   <p className="text-lg text-gray-600 dark:text-gray-400 max-w-xl">
