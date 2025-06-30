@@ -152,7 +152,7 @@ const Portfolio = () => {
                 {/* Profile Image */}
                 <div className="profile-image-container">
                   <img
-                    src={process.env.PUBLIC_URL + "/profile.jpg"}
+                    src={process.env.PUBLIC_URL + "/profilepic.jpg"}
                     alt="Sai Charan Lenkallapally"
                     className={`profile-image w-full h-full object-cover rounded-full border-4 ${darkMode ? 'border-blue-500 shadow-lg shadow-blue-700/40' : ''}`}
                   />
